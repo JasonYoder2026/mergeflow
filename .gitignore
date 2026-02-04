@@ -1,0 +1,7 @@
+backend/HELP.md
+backend/.gitignore
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/!**/src/main/**/target/
+backend/target/
+backend/gitignore
+backend/.gitattributes
