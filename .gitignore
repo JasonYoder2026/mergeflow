@@ -5,3 +5,7 @@ backend/!**/src/main/**/target/
 backend/target/
 backend/gitignore
 backend/.gitattributes
+
+
+
+frontend/.env
