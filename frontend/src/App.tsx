@@ -1,15 +1,10 @@
 import './App.css'
-import HealthCheck from './components/HealthCheck'
+import LandingPage from './pages/LangingPage'
 
 function App() {
 
   return (
-    <>
-      <div>
-        <h1>MergeFlow Frontend</h1>
-        <HealthCheck />
-      </div>
-    </>
+    <LandingPage />
   )
 }
 
